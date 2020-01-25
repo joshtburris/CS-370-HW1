@@ -16,6 +16,6 @@ To compile:
 To run:
     ./Driver.out <seed>
 
-For example;
+For example:
     ./Driver.out 1234
 
